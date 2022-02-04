@@ -304,8 +304,8 @@
     </profile>
   </profiles>
 
-  <repositories>    
-        <pluginRepository>
+<pluginRepositories>
+  <pluginRepository>
       <id>rh-maven-repo-main</id>
       <name>JBoss Public Repository Group</name>
       <url>hhttps://maven.repository.redhat.com/ga/</url>
@@ -317,6 +317,9 @@
         <updatePolicy>daily</updatePolicy>
       </snapshots>
     </pluginRepository>
+</pluginRepositories>
+  <repositories>    
+        
     <repository>
       <id>rh-maven-repo-main</id>
       <name>JBoss Public Repository Group</name>
