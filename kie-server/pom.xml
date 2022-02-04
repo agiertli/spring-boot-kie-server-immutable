@@ -308,7 +308,7 @@
   <pluginRepository>
       <id>rh-maven-repo-main</id>
       <name>JBoss Public Repository Group</name>
-      <url>hhttps://maven.repository.redhat.com/ga/</url>
+      <url>https://maven.repository.redhat.com/ga/</url>
       <layout>default</layout>
       <releases>
         <updatePolicy>never</updatePolicy>
@@ -323,7 +323,7 @@
     <repository>
       <id>rh-maven-repo-main</id>
       <name>JBoss Public Repository Group</name>
-      <url>hhttps://maven.repository.redhat.com/ga/</url>
+      <url>https://maven.repository.redhat.com/ga/</url>
       <layout>default</layout>
       <releases>
         <updatePolicy>never</updatePolicy>
